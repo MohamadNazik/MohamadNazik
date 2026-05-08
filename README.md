@@ -106,9 +106,9 @@ Currently contributing to projects and initiatives involving:
 
 ## Education
 
-### Bachelor’s Degree in Software Engineering / Computing
+### BSc (Hons) in Information Technology
 
-`Add your university or institute here`
+`University of Jaffna, Sri Lanka`
 
 Relevant areas:
 
