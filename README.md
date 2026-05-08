@@ -87,7 +87,7 @@ Currently contributing to projects and initiatives involving:
 * Release automation and deployment pipelines
 * Infrastructure-related improvements and optimization
 
-> Add your active repositories or organization contribution links here.
+<!-- > Add your active repositories or organization contribution links here. -->
 
 ---
 
