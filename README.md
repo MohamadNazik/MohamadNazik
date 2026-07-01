@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:011f14,50:052e16,100:064e3b&text=Mohamad%20Nazik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Intern%20%40%20LSF&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:011f14,50:052e16,100:064e3b&text=Mohamad%20Nazik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20Intern%20%40%20LSF&descAlignY=58&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2000&pause=500&color=10b981&center=true&vCenter=true&width=750&lines=Backend+Engineering;Open+Source+Contributor;Cloud+%26+DevOps;CI%2FCD+Automation;Scalable+System+Design" />
 
